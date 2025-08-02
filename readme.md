@@ -9,7 +9,7 @@
     <li>You download <a href="https://github.com/Epicinver/Rock-Paper-Scissors/blob/main/RockPaperScissors.py"><code>RockPaperScissors.py</code></a></li>
     <li>You run it</li>
     <li>Type your name, yes, then type rock, paper, or scissors.</li>
-    <li>There is a <a href="https://github.com/Epicinver/Rock-Paper-Scissors/blob/main/Automator.py"<code>Automator.py></code></a> that you can use to </li>
+    <li>There is a <a href="https://github.com/Epicinver/Rock-Paper-Scissors/blob/main/Automator.py"><code>Automator.py</code></a> that you can use to make typing automatic. Check the box below for a tutorial</li>
   </ul>
 </details>
 
@@ -26,3 +26,4 @@
 
 <p align="center"><em>thanks :)</em></p>
 <p align="center">                                           👆 is some info</p>
+
