@@ -2,7 +2,7 @@ import random
 
 positive_responses = ["yes", "yea", "yeah", "yup", "ok", "sure", "ok then lets do it", "Nope", "NAH HELL NO"]
 
-negative_responses = ["bad word", ":))(())(())(())(())"]
+negative_responses = ["womp womp", "lol"]
 
 name = input("What is your name? Enter it here: ")
 print(f"Hello, {name}!")
@@ -45,3 +45,4 @@ elif gameapprov == "no":
     print("Okay, bye!")
 else:
     print("Please answer with 'yes' or 'no'.")
+
